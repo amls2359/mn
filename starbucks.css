@@ -1,0 +1,61 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+img
+{
+    list-style-type: none;
+    display:inline-block;
+    widhth:25px;
+    height: 25px;
+    
+}
+ul{
+
+    font-style:unset;
+    font-weight: bolder;
+}
+li{
+    float: left;
+    list-style-type: none;
+    padding: 21px;
+    padding-top: 20px;
+}
+#rig
+{
+  float: right;
+}
+button
+{
+    background-color: black;
+    color: white;
+    border-radius: 100px;
+}
+.si
+{
+    background-color: white;
+    color: black;
+}
+#pa
+{
+    padding: 0px;
+}
+
+hr
+{
+ display:block;
+ margin-top: 0.5em;
+ margin-bottom: 0.5em;
+ margin-left: 1px;
+ margin-right: auto;
+ border-style:outset;
+ border-width: 2px;
+ width: 100%;
+}
+div
+{
+    display: inline-block;
+    background-color: chocolate;
+    margin-bottom: 15px;
+}
